@@ -1,0 +1,79 @@
+# ============================================================
+# agents_52week
+# Recommended Python: 3.12
+# ============================================================
+
+# --- LangChain ecosystem ---
+langchain
+langchain-core
+langchain-community
+langgraph
+langsmith
+
+# --- LLM providers ---
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-groq
+
+# --- Configuration / validation ---
+python-dotenv
+pydantic
+pydantic-settings
+
+# --- Vector stores / RAG ---
+faiss-cpu
+chromadb
+langchain-chroma
+
+# --- Embeddings / Hugging Face ---
+sentence-transformers
+transformers
+huggingface-hub
+
+# --- Data / ML ---
+numpy
+pandas
+scipy
+scikit-learn
+
+# --- Document loaders / parsing ---
+pypdf
+pymupdf
+python-docx
+beautifulsoup4
+lxml
+markdown
+
+# --- HTTP / APIs ---
+httpx
+requests
+aiohttp
+
+# --- Search / agent tools ---
+tavily-python
+duckduckgo-search
+
+# --- Tokenization / structured data ---
+tiktoken
+jsonschema
+PyYAML
+tenacity
+
+# --- CLI / utilities ---
+rich
+typer
+
+# --- Jupyter lessons ---
+jupyterlab
+notebook
+ipykernel
+ipywidgets
+
+# --- Testing ---
+pytest
+pytest-asyncio
+
+# --- Code quality ---
+ruff
+black
